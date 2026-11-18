@@ -36,6 +36,6 @@ body {
   }
 }
 
-.light (
+.light {
   @include theme($light-theme: true);
-)
+}
