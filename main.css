@@ -15,16 +15,20 @@ a {
   text-decoration: none;
 }
 
+header {
+  position: fixed;
+  z-index: 2;
+  width: 100%;
+  padding: 1rem;
+}
+
 body {
   background: #272727;
   color: #fff;
   height: 100vh;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   line-height: 1;
-}/*# sourceMappingURL=main.css.map */__paragraph1:hover, .main .main__paragraph2:hover {
-  color: pink;
-}
-.main .main__paragraph2:hover {
+}/*# sourceMappingURL=main.css.map */ain__paragraph2:hover {
   color: #ff652f;
 }
 @media (max-width: 800px) {
