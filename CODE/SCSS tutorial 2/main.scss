@@ -38,6 +38,8 @@ main {
 
     a {
       padding: 0.4rem;
+      @include transition-ease;
+
       &:hover {
         color: $secondary-color;
       }
