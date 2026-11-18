@@ -34,20 +34,20 @@ main {
     bottom: 1rem;
     left: 1rem;
 
-    a{
+    a {
       padding: 0.4rem;
-      &;hoover{
+      &:hover {
         color: $secondary-color;
       }
     }
   }
 }
 
-footer{
+footer {
   font-size: 1rem;
   position: fixed;
   bottom: 0.4rem;
-  right:1rem;
+  right: 1rem;
   text-align: right;
   padding: 1rem;
   color: #fff;
