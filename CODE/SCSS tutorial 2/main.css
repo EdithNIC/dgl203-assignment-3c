@@ -151,6 +151,9 @@
   align-items: center;
   justify-content: flex-end;
 }
+.about p {
+  margin-block-end: 2rem;
+}
 
 body {
   background: #272727;
