@@ -26,6 +26,11 @@ main {
   height: 100%;
   width: 100%;
 }
+main social-icons {
+  position: fixed;
+  bottom: 1rem;
+  left: 1rem;
+}
 
 body {
   background: #272727;
@@ -33,12 +38,7 @@ body {
   height: 100vh;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   line-height: 1;
-}/*# sourceMappingURL=main.css.map */
-}
-@media (max-width: 800px) {
-  .main {
-    flex-direction: column;
-  }
+}/*# sourceMappingURL=main.css.map */}
 }
 
 .light {
