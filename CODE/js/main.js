@@ -16,6 +16,8 @@ function toggleMenu() {
     showMenu = true;
   } else {
     hamburger.classList.remove("open");
+    nav.classList.remove("open");
+    menuNav.classList.remove("open");
     showMenu = false;
   }
 }
