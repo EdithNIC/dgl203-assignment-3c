@@ -10,16 +10,18 @@ h3 {
   font-weight: 400;
 }
 
+a {
+  color: #fff;
+  text-decoration: none;
+}
+
 body {
   background: #272727;
   color: #fff;
   height: 100vh;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   line-height: 1;
-}/*# sourceMappingURL=main.css.map */_paragraph2 {
-  font-weight: 700;
-}
-.main .main__paragraph1:hover, .main .main__paragraph2:hover {
+}/*# sourceMappingURL=main.css.map */__paragraph1:hover, .main .main__paragraph2:hover {
   color: pink;
 }
 .main .main__paragraph2:hover {
