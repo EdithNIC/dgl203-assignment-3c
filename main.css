@@ -1,6 +1,4 @@
-* {
-  box-sizing: border-box;
-  margin: 0;
+/*# sourceMappingURL=main.css.map */in: 0;
   padding: 0;
 }
 
@@ -17,12 +15,10 @@ body {
   width: 40%;
   margin: 0 auto;
 }
-.main .main__paragraph1,
-.main .main__paragraph2 {
+.main .main__paragraph1, .main .main__paragraph2 {
   font-weight: 700;
 }
-.main .main__paragraph1:hover,
-.main .main__paragraph2:hover {
+.main .main__paragraph1:hover, .main .main__paragraph2:hover {
   color: pink;
 }
 .main .main__paragraph2:hover {
@@ -37,4 +33,4 @@ body {
 .light {
   background: white;
   color: black;
-} /*# sourceMappingURL=main.css.map */
+}/*# sourceMappingURL=main.css.map */
