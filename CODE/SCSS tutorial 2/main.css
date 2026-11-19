@@ -175,10 +175,10 @@
 }
 .about .jobs__job h2,
 .about .jobs__job h3 {
-  margin: 0.5 rem 0;
+  margin: 0.5rem 0;
 }
 .about .jobs__job h6 {
-  margin: 0.3 0;
+  margin: 0.3rem 0;
 }
 .about .social-icons {
   display: flex;
@@ -345,7 +345,7 @@ body {
   background: #272727;
   color: #fff;
   height: 100vh;
-  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
   line-height: 1;
 }
 
