@@ -236,6 +236,9 @@
   top: 0;
   opacity: 0.9;
 }
+.projects__item:hover .projects__btn {
+  opacity: 1;
+}
 .projects__btns {
   position: absolute;
   top: 0;
@@ -249,8 +252,7 @@
 }
 .projects__btn {
   opacity: 0;
-  -moz-column-rule: #000;
-       column-rule: #000;
+  color: #000;
   transition: all 0.5s ease-in-out;
 }
 .projects__btn:hover {
