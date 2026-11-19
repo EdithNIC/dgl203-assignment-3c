@@ -266,6 +266,16 @@
   transform: rotate(90deg) translate(-3rem, -5rem);
 }
 
+.contact {
+  height: 100%;
+  padding-top: 40vh;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  background: linear-gradient(to right, rgba(39, 39, 39, 0.9), rgba(39, 39, 39, 0.3)), url("../images/model-1.jpg") center top;
+  background-size: cover;
+}
+
 body {
   background: #272727;
   color: #fff;
