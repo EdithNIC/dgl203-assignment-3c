@@ -247,6 +247,12 @@
   align-items: center;
   text-align: center;
 }
+.projects__btn {
+  opacity: 0;
+  -moz-column-rule: #000;
+       column-rule: #000;
+  transition: all 0.5s ease-in-out;
+}
 .projects .social-icons {
   display: flex;
   flex-direction: column;
