@@ -180,6 +180,10 @@
 .about .jobs__job h6 {
   margin: 0.3 0;
 }
+.about .social-icons {
+  display: flex;
+  flex-direction: column;
+}
 
 body {
   background: #272727;
