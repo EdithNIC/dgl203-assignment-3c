@@ -37,5 +37,20 @@
     .text-secondary {
       font-size: 3rem;
     }
+
+    .contact__list {
+      grid-template-columns: reapeat(2, 1fr);
+    }
+  }
+}
+
+@include media-lg {
+  .projects {
+    &__bio-image {
+      height: 40vh;
+    }
+    &__items {
+      grid-template-columns: repeat(3, 1fr);
+    }
   }
 }
